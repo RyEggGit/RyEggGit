@@ -10,4 +10,4 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am wor
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6mwn6200kq0mwftiy7logpgsf&count=2)
 
 ## My Stack 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyEggGit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
