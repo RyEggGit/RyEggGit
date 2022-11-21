@@ -12,3 +12,5 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am wor
 ## My Stack 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
