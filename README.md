@@ -5,4 +5,4 @@
 - In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am working on developing a mobile app📱
 
 ## What I am currently listening to🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6mwn6200kq0mwftiy7logpgsf)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6mwn6200kq0mwftiy7logpgsf&count={2})
