@@ -4,7 +4,7 @@
 
 💻 I am currently on coop as Junior Developer at H2Analytics
 
-In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am working on developing a mobile app📱
+In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am currently developing [LIFT](https://lift-web.vercel.app/)
 
 ## My Stack 📈
 
