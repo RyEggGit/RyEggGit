@@ -10,7 +10,7 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am cur
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyEggGit&hide_progress=true&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyEggGit&hide_progress=true&langs_count=10&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
