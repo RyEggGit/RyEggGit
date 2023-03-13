@@ -6,7 +6,7 @@
 
 In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am currently developing [LIFT](https://lift-web.vercel.app/)
 
-## My Stack 📈
+## My Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
