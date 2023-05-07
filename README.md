@@ -1,6 +1,6 @@
 # Hey I'm Ryan 👋
 
-🏫 I am a 2A Computer Engineering Student at the University of Waterloo
+🏫 I am a 2B Computer Engineering Student at the University of Waterloo
 
 💻 I am currently on coop as Junior Developer at H2Analytics
 
