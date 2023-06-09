@@ -14,7 +14,7 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am cur
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,graphql,python,go,bash,docker,firebase,flask,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,tailwind,python,go,bash,docker,firebase,flask,figma&perline=4" />
   </a>
   
 </p>
