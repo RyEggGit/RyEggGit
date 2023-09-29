@@ -20,8 +20,8 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am cur
   <a href="">
     <img src="https://github.com/RyEggGit/RyEggGit/assets/81097013/550128a4-802a-41e3-89af-f520cbd64dd7"/>
   </a>
-  <a href="https://www.linkedin.com/in/ryan-eggens/">
-    <img src="https://github.com/RyEggGit/RyEggGit/assets/81097013/c049bcbf-2dc5-4ba9-8dba-a2ffca2312c1"/>
+  <a>
+    <img href="https://www.linkedin.com/in/ryan-eggens/" src="https://github.com/RyEggGit/RyEggGit/assets/81097013/c049bcbf-2dc5-4ba9-8dba-a2ffca2312c1"/>
   </a>
   <a href="">
     <img src="https://github.com/RyEggGit/RyEggGit/assets/81097013/5b153b83-d251-44c2-aea8-9582b94c4fc1"/>
