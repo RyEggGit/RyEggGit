@@ -15,6 +15,7 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am cur
   
 </p>
 
+<!---- 
 ## Contact Me
 <p align="center">
   <a href="">
@@ -30,6 +31,6 @@ In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am cur
     <img src="https://github.com/RyEggGit/RyEggGit/assets/81097013/056516a8-0f86-4412-947d-96123e4fe41a"/>
   </a>
 </p>
-
+---->
 
 
