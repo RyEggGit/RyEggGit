@@ -2,7 +2,7 @@
 
 🏫 I am a 2B Computer Engineering Student at the University of Waterloo
 
-💻 I am currently on coop as Junior Developer at H2Analytics
+💻 I previously worked at H2Analytics and Guelph Eye Md as a software developer
 
 In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am currently developing [LIFT](https://lift-web.vercel.app/)
 
