@@ -1,10 +1,10 @@
 # Hey I'm Ryan 👋
 
-🏫 I am a 2B Computer Engineering Student at the University of Waterloo
+🏫 I am a 3A Computer Engineering Student at the University of Waterloo
 
-💻 I previously worked at H2Analytics and Guelph Eye Md as a software developer
+💻 I previously worked at the Department of National Defence, H2Analytics and Guelph Eye Md as a software developer
 
-In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏, and I am currently developing [LIFT](https://lift-web.vercel.app/)
+In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏.
 
 ## My Stack
 
