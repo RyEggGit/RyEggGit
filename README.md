@@ -4,7 +4,7 @@
 
 💻 I previously worked at the Department of National Defence, H2Analytics and Guelph Eye Md as a software developer
 
-In my freetime I enjoy playing spikeball🏐, ultimate frisbee🥏.
+In my freetime I enjoy playing spikeball🏐, and ultimate frisbee🥏.
 
 ## My Stack
 
