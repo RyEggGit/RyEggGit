@@ -6,15 +6,6 @@
 
 In my freetime I enjoy playing spikeball🏐, and ultimate frisbee🥏.
 
-## My Stack
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyEggGit&hide_progress=true&langs_count=10&theme=dark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vue,ts,tailwind,python,go,bash,docker,firebase,flask,figma,java,github,mongo,react,d3&perline=5" />
-  
-</p>
-
 <!---- 
 ## Contact Me
 <p align="center">
